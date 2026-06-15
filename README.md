@@ -74,7 +74,7 @@ Created visualizations to cto explore wine ratings, pricing trends, regional per
 ![Correlation Between Price and Wine Scores in Italy](Visualizations/06 - Correlation between price and wine scores in Italy.png)
 
 #### 7. Wine Production in Europe
-![Wine Production in Europe]\(Visualizations/07 - Wine Production in Europe.png)
+![Wine Production in Europe](Visualizations/07 - Wine Production in Europe.png)
 
 These visualizations highlight:
 - Country-level wine score comparisons
