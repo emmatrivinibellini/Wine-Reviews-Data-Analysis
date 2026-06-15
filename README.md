@@ -56,10 +56,10 @@ Created visualizations to cto explore wine ratings, pricing trends, regional per
 
 
 #### 1. Average Score by Country
-![Average Score by Country](Visualizations/01 - Average Score per Country.png)
+![Average Score by Country](Visualizations/01_Average_Score_per_Country.png)
 
 #### 2. Average Wine Price by Country
-![Average Wine Price by Country](Visualizations/02 - Average wine price per Country.png)
+![Average Wine Price by Country](Visualizations/02_Average_wine_price_per_Country.png)
 
 #### 3. Distribution of Italian Wine Prices
 ![Distribution of Italian Wine Prices](Visualizations/03 - Distribution of Italian wine prices.png)
