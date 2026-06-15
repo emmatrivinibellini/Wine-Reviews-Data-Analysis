@@ -161,6 +161,6 @@ These strategies would help the marketplace differentiate itself from competitor
 | File | Description |
 |------|--------------|
 | `Wine_Review_Data_Analysis.ipynb` | Main analysis in Python (data cleaning, exploration, visualization). |
-| `Wine_Review_Marketplace_Presentation.pdf` | Project presentation and key takeaways. |
+| `Wine_Review_Analysis_Presentation.pdf` | Project presentation and key takeaways. |
 | `Visualizations` | Collection of 7 visualizations including country score comparisons, average wine prices, Italian wine price distribution, regional benchmarking, sales distribution by province, price–score correlation analysis, and European wine production maps.  |
 | `README.md` | Project overview, context, and insights. |
