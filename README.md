@@ -76,20 +76,6 @@ Created visualizations to cto explore wine ratings, pricing trends, regional per
 #### 7. Wine Production in Europe
 ![Wine Production in Europe](Visualizations/07 - Wine Production in Europe.png)
 
-![Average Score by Country](Visualizations/01 - Average Score per Country.png)
-
-![Average Wine Price by Country](Visualizations/02 - Average wine price per Country.png)
-
-![Distribution of Italian Wine Prices](Visualizations/03 - Distribution of Italian wine prices.png)
-
-![Average Wine Prices and Scores by Province in Italy](Visualizations/04 - Average Wine Prices and Scores by Province in Italy.png)
-
-![Distribution of Bottles Sold by Province in Italy](Visualizations/05 - Distribution of Bottles Sold by Province in Italy.png)
-
-![Correlation Between Price and Wine Scores in Italy](Visualizations/06 - Correlation between price and wine scores in Italy.png)
-
-![Wine Production in Europe](Visualizations/07 - Wine Production in Europe.png)
-
 These visualizations highlight:
 - Country-level wine score comparisons
 - Average wine prices across countries
