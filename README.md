@@ -56,22 +56,22 @@ Created visualizations to cto explore wine ratings, pricing trends, regional per
 
 
 #### 1. Average Score by Country
-![Average Score by Country](images/01%20-%20Average%20Score%20per%20Country.png)
+![Average Score by Country](Visualizations/01 - Average Score per Country.png)
 
 #### 2. Average Wine Price by Country
-![Average Wine Price by Country](images/02%20-%20Average%20wine%20price%20per%20Country.png)
+![Average Wine Price by Country](Visualizations/02 - Average wine price per Country.png)
 
 #### 3. Distribution of Italian Wine Prices
-![Distribution of Italian Wine Prices](images/03%20-%20Distribution%20of%20Italian%20wine%20prices.png)
+![Distribution of Italian Wine Prices](Visualizations/03 - Distribution of Italian wine prices.png)
 
 #### 4. Average Wine Prices and Scores by Province in Italy
-![Average Wine Prices and Scores by Province in Italy](images/04%20-%20Average%20Wine%20Prices%20and%20Scores%20by%20Province%20in%20Italy.png)
+![Average Wine Prices and Scores by Province in Italy](Visualizations/04 - Average Wine Prices and Scores by Province in Italy.png)
 
 #### 5. Distribution of Bottles Sold by Province in Italy
-![Distribution of Bottles Sold by Province in Italy](images/05%20-%20Distribution%20of%20Bottles%20Sold%20by%20Province%20in%20Italy.png)
+![Distribution of Bottles Sold by Province in Italy](Visualizations/05 - Distribution of Bottles Sold by Province in Italy.png)
 
 #### 6. Correlation Between Price and Wine Scores in Italy
-![Correlation Between Price and Wine Scores in Italy](images/06%20-%20Correlation%20between%20price%20and%20wine%20scores%20in%20Italy.png)
+![Correlation Between Price and Wine Scores in Italy](Visualizations/06 - Correlation between price and wine scores in Italy.png)
 
 #### 7. Wine Production in Europe
 ![Wine Production in Europe](Visualizations/07 - Wine Production in Europe.png)
